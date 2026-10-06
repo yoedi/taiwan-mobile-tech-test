@@ -9,7 +9,7 @@ Account data is stored in an in-memory **H2** database. Passwords are hashed wit
 
 ## Tech Stack
 
-- Java 21
+- Java 17
 - Spring Boot 3.x (Maven)
 - Spring Web
 - Spring Data JPA

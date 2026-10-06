@@ -18,7 +18,7 @@
     <description>Register and login RESTful API</description>
 
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
